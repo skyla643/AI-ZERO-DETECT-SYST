@@ -161,7 +161,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions or support, please reach out to the project maintainers at [email@example.com](mailto:email@example.com).
+For questions or support, please reach out to the project maintainers at [skylamiranda643@gmail.com](mailto:skylamiranda643@gmail.com).
 
 ## Acknowledgements
 
