@@ -4,6 +4,8 @@
 
 This project is an AI-Driven Zero-Day Exploit Detection and Defense System designed to provide robust protection against zero-day vulnerabilities. By leveraging advanced AI models, real-time monitoring, and automated response mechanisms, this system aims to detect and neutralize threats before they can exploit unknown vulnerabilities in your infrastructure.
 
+For a visual and interactive overview, please visit the digital pamphlet at: [AI Zero-Day Detection WebPam](https://skyla643.github.io/AI-ZERO-DETECT-WEBPAM/)
+
 ## Features
 
 - **AI-Powered Detection**: Utilizes machine learning models to detect previously unknown vulnerabilities in real-time.
@@ -157,7 +159,7 @@ Please ensure all new code follows the existing style and passes all tests befor
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under *not chosen yet* . See the `LICENSE` file for details.
 
 ## Contact
 
